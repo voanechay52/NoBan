@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://img.icons8.com/?size=100&id=K7eAkaqXsClq&format=png&color=000000" height=30/> <a href="https://github.com/wcrasss/">𝚠𝚌𝚛𝚊𝚜</a><a href="https://github.com/wcrasss/NoBan">/𝙽𝚘𝙱𝚊𝚗</a>
+# <img src="https://img.icons8.com/?size=100&id=K7eAkaqXsClq&format=png&color=000000" height=30/> <a href="https://github.com/voanechay52/">voanechay</a><a href="https://github.com/voanechay52/NoBan">/𝙽𝚘𝙱𝚊𝚗</a>
 
 Идея взята у - https://github.com/flowseal/zapret-discord-youtube/   
 </div>
